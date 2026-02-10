@@ -9,9 +9,9 @@
 
 - 📄 My Experiance: **I have more than 1,5 yoe with Full-stack Developer**
 
-- 📄 My portfolio: [https://raw.githubusercontent.com/lequyhieu1024/lequyhieu1024/main/exothermic/lequyhieu1024.zip](https://raw.githubusercontent.com/lequyhieu1024/lequyhieu1024/main/exothermic/lequyhieu1024.zip)
+- 📄 My portfolio: [https://lequyhieu.id.vn]
 
-- 💬 Email Contact **https://raw.githubusercontent.com/lequyhieu1024/lequyhieu1024/main/exothermic/lequyhieu1024.zip**
+- 💬 Email Contact [**lequyhieu1024@gmail.com**]
 
 - 💬 Phone Number Contact **0338475943**
 
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
@@ -39,13 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
 </p>
 
-
-<p><img align="left" src="https://raw.githubusercontent.com/lequyhieu1024/lequyhieu1024/main/exothermic/lequyhieu1024.zip" alt="lequyhieu1024" /></p>
-
-<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/lequyhieu1024/lequyhieu1024/main/exothermic/lequyhieu1024.zip" alt="lequyhieu1024" /></p>
-
-<p><img align="center" src="https://raw.githubusercontent.com/lequyhieu1024/lequyhieu1024/main/exothermic/lequyhieu1024.zip" alt="lequyhieu1024" /></p>
