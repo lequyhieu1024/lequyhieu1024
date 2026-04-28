@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Start-Up Company or Start-up Project**
 
-- 📄 My Experiance: **I have more than 1,5 yoe with Full-stack Developer**
+- 📄 My Experiance: **I have more than 2 yoe with Full-stack Developer**
 
 - 📄 My portfolio: [https://lequyhieu.id.vn]
 
